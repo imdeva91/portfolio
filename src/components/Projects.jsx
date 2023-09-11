@@ -33,8 +33,8 @@ const Projects = () => {
     {
       id: 4,
       src: Portfolio,
-      demo: "https://kaleidoscopic-sprinkles-fcc523.netlify.app/",
-      code: "https://github.com/imdeva91/trades-trak",
+      demo: "https://resilient-moonbeam-ba91df.netlify.app/",
+      code: "https://github.com/imdeva91/portfolio",
     },
 
     {
