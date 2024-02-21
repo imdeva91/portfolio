@@ -48,12 +48,7 @@ const Projects = () => {
       demo: "https://scintillating-faun-52ba71.netlify.app/",
       code: "https://github.com/imdeva91/food_cart",
     },
-    {
-      id: 7,
-      src: form,
-      demo: "https://resilient-crepe-d9dd14.netlify.app/",
-      code: "https://github.com/imdeva91/react-form"
-    }
+    
   ];
 
   return (
