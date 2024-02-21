@@ -13,7 +13,6 @@ const Contact = () => {
           </p>
           <p className="pt-6">Submit the form below to get in touch with me</p>
         </div>
-
         <div className=" flex justify-center items-center">
           <form
             action="https://getform.io/f/2471029b-cc1e-4873-a9ef-ebf04391e1fc"
