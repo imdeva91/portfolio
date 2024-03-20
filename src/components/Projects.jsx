@@ -4,49 +4,47 @@ import wether from "../assets/projects/wether.png";
 import foodApp from "../assets/projects/foodApp.png";
 import Portfolio from "../assets/projects/portfolio.png"
 import qr from "../assets/projects/qr.png"
-import foodCart from "../assets/projects/foodCart.png";
-import form from "../assets/projects/form.png";
-import { Link } from "react-router-dom";
-
+import ecommerce from "../assets/projects/ecommerce.png"
 const Projects = () => {
   const Projects = [
     {
-      id: 1,
-      src: wether,
-      demo: "https://effulgent-choux-dd2bb6.netlify.app/",
-      code: "https://github.com/imdeva91/Wether_app",
+      id:1,
+      src:ecommerce,
+      demo:"https://main--creative-praline-8c54d5.netlify.app/",
+      code:"https://github.com/imdeva91/ecommerce_with_reduxtollkit"
     },
     {
-      id: 2,
-      src: qr,
-      demo: "https://qrgenrotar.netlify.app/",
-      code: "https://github.com/imdeva91/Qr_gentaror",
-    },
-    {
-      id:3,
+      id:2,
       src:movie,
-      demo: "http://localhost:5173/",
+      demo: "https://capable-cranachan-a40b1c.netlify.app/",
       code:"https://github.com/imdeva91/movieApp"
     },
     
     {
-      id: 4,
+      id: 3,
       src: Portfolio,
       demo: "https://resilient-moonbeam-ba91df.netlify.app/",
       code: "https://github.com/imdeva91/portfolio",
     },
 
     {
-      id: 5,
+      id: 4,
       src: foodApp,
       demo: "https://tourmaline-truffle-89f4b5.netlify.app/",
       code: "https://github.com/imdeva91/restaurant"
     },
+    
+    {
+      id: 5,
+      src: wether,
+      demo: "https://effulgent-choux-dd2bb6.netlify.app/",
+      code: "https://github.com/imdeva91/Wether_app",
+    },
     {
       id: 6,
-      src: foodCart,
-      demo: "https://scintillating-faun-52ba71.netlify.app/",
-      code: "https://github.com/imdeva91/food_cart",
+      src: qr,
+      demo: "https://qrgenrotar.netlify.app/",
+      code: "https://github.com/imdeva91/Qr_gentaror",
     },
     
   ];

@@ -34,8 +34,8 @@ const Home = () => {
           // style={{mixBlendMode:"screen"}}
             src={me}
             alt="my profile"
-            className="profile"
-            // className="rounded-2xl mx-auto mt-5 w-2/3 md:w-full"
+            
+            className="rounded-2xl mx-auto mt-5 w-2/3 md:w-full"
           />
         </div>
       </div>
